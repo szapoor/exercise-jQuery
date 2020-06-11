@@ -1,0 +1,27 @@
+#first {
+   background: #0D91A1; 
+    color: #015668;
+    width: 300px;
+    margin:15px;
+    height: 120px;
+    border: 5px solid #7DCE94;
+  }
+  #second {
+    background: #0D91A1; 
+    color: #015668;
+    width: 300px;
+    margin:15px;
+    height: 120px;
+    border: 5px solid #7DCE94;
+  }
+  #third {
+    background: #0D91A1; 
+    color: #015668;
+    width: 300px;
+    margin:15px;
+    height: 120px;
+    border: 5px solid #7DCE94;
+  }
+  body{
+    font-family: sans-serif;
+  }

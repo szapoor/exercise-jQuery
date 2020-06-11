@@ -1,0 +1,36 @@
+.first {
+    border: 10px solid #4285f4;
+    margin: 20px;
+    width: 300px;
+    text-align: center;
+    font-weight: bold;
+    font-family: sans-serif;
+  }
+  .first-one {
+    background: #E67676;
+    color: white;
+    padding: 30px;
+    margin: 0px;
+    font-size: 24px;
+  }
+  .second {
+    background: #F2F062;
+    color: white;
+    padding: 30px;
+    margin: 0px;
+    font-size: 24px;
+  }
+  .third {
+    background: #A9E6E6;
+    color: white;
+    padding: 30px;
+    margin: 0px;
+    font-size: 24px;
+  }
+  .fourth{
+    background: #7692E4;
+    color: white;
+    padding: 30px;
+    margin: 0px;
+    font-size: 24px;
+  }
